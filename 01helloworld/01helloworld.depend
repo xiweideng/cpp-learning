@@ -1,0 +1,597 @@
+# depslib dependency file v1.0
+1642840092 source:/home/csp/Desktop/2019223757/01helloworld/helloworld.cpp
+	<iostream>
+
+1642840097 source:/home/csp/Desktop/2019223757/01helloworld/comment.cpp
+	<iostream>
+
+1642840453 source:/home/csp/Desktop/2019223757/01helloworld/variable.cpp
+	<iostream>
+
+1642902631 source:/home/csp/Desktop/2019223757/01helloworld/constant.cpp
+	<iostream>
+
+1642905984 source:/home/csp/Desktop/2019223757/01helloworld/integer.cpp
+	<iostream>
+
+1642918331 source:/home/csp/Desktop/2019223757/01helloworld/real.cpp
+	<iostream>
+
+1642919332 source:/home/csp/Desktop/2019223757/01helloworld/char.cpp
+	<iostream>
+
+1642920157 source:/home/csp/Desktop/2019223757/01helloworld/escape.cpp
+	<iostream>
+
+1642921388 source:/home/csp/Desktop/2019223757/01helloworld/string.cpp
+	<iostream>
+	<string>
+
+1642921726 source:/home/csp/Desktop/2019223757/01helloworld/bool.cpp
+	<iostream>
+
+1642924664 source:/home/csp/Desktop/2019223757/01helloworld/stdio.cpp
+	<iostream>
+
+1642927538 source:/home/csp/Desktop/2019223757/01helloworld/ArithmeticOperator.cpp
+	<iostream>
+
+1642927567 source:/home/csp/Desktop/2019223757/01helloworld/demo.cpp
+	<iostream>
+
+1642985448 source:/home/csp/Desktop/2019223757/01helloworld/assignmentOperator.cpp
+	<iostream>
+
+1642985703 source:/home/csp/Desktop/2019223757/01helloworld/comparisonOperator.cpp
+	<iostream>
+
+1642986789 source:/home/csp/Desktop/2019223757/01helloworld/logicalOperator.cpp
+	<iostream>
+
+1642989284 source:/home/csp/Desktop/2019223757/01helloworld/selectionStructure.cpp
+	<iostream>
+
+1642989779 source:/home/csp/Desktop/2019223757/01helloworld/nestedIfStatement.cpp
+	<iostream>
+
+1642990919 source:/home/csp/Desktop/2019223757/01helloworld/threePigsWeigh.cpp
+	<iostream>
+
+1642999483 source:/home/csp/Desktop/2019223757/01helloworld/ternaryOperator.cpp
+	<iostream>
+
+1643008618 source:/home/csp/Desktop/2019223757/01helloworld/numberGuessGame.cpp
+	<iostream>
+	<ctime>
+
+1643008920 source:/home/csp/Desktop/2019223757/01helloworld/whileLoopStatement.cpp
+	<iostream>
+
+1643009301 source:/home/csp/Desktop/2019223757/01helloworld/dowhileLoopStatement.cpp
+	<iostream>
+
+1643010985 source:/home/csp/Desktop/2019223757/01helloworld/narcissisticNumber.cpp
+	<bits/stdc++.h>
+
+1643011687 source:/home/csp/Desktop/2019223757/01helloworld/forLoopStructure.cpp
+	<bits/stdc++.h>
+
+1643012200 source:/home/csp/Desktop/2019223757/01helloworld/knockTableGame.cpp
+	<bits/stdc++.h>
+
+1643071932 source:/home/csp/Desktop/2019223757/01helloworld/nestedLoop.cpp
+	<bits/stdc++.h>
+
+1643073639 source:/home/csp/Desktop/2019223757/01helloworld/breakStatement.cpp
+	<bits/stdc++.h>
+
+1643072628 source:/home/csp/Desktop/2019223757/01helloworld/multiplicationTable.cpp
+	<bits/stdc++.h>
+
+1643073955 source:/home/csp/Desktop/2019223757/01helloworld/continueStatement.cpp
+	<bits/stdc++.h>
+
+1643074332 source:/home/csp/Desktop/2019223757/01helloworld/gotoStatement.cpp
+	<bits/stdc++.h>
+
+1643075870 source:/home/csp/Desktop/2019223757/01helloworld/one-dimensionalArray.cpp
+	<bits/stdc++.h>
+
+1643077668 source:/home/csp/Desktop/2019223757/01helloworld/one-dimensionalArrayNameUsage.cpp
+	<bits/stdc++.h>
+
+1643080360 source:/home/csp/Desktop/2019223757/01helloworld/fivePigsWeigh.cpp
+	<bits/stdc++.h>
+
+1643081161 source:/home/csp/Desktop/2019223757/01helloworld/invertArrayElement.cpp
+	<bits/stdc++.h>
+
+1643094306 source:/home/csp/Desktop/2019223757/01helloworld/bubbleSort.cpp
+	<bits/stdc++.h>
+
+1643096022 source:/home/csp/Desktop/2019223757/01helloworld/two-dimensionalArray.cpp
+	<bits/stdc++.h>
+
+1643096985 source:/home/csp/Desktop/2019223757/01helloworld/two-dimensionalArrayNameUsage.cpp
+	<bits/stdc++.h>
+
+1643099417 source:/home/csp/Desktop/2019223757/01helloworld/examResultStatistics.cpp
+	<bits/stdc++.h>
+
+1643157914 source:/home/csp/Desktop/2019223757/01helloworld/functionDefinition.cpp
+	<bits/stdc++.h>
+
+1643158723 source:/home/csp/Desktop/2019223757/01helloworld/passValue.cpp
+	<bits/stdc++.h>
+
+1643159670 source:/home/csp/Desktop/2019223757/01helloworld/functionStyle.cpp
+	<bits/stdc++.h>
+
+1643160554 source:/home/csp/Desktop/2019223757/01helloworld/functionDeclaration.cpp
+	<bits/stdc++.h>
+
+1643162274 source:/home/csp/Desktop/2019223757/01helloworld/functionSubfile.cpp
+	<bits/stdc++.h>
+	"swap1.h"
+
+1643161603 /home/csp/Desktop/2019223757/01helloworld/swap1.h
+	<bits/stdc++.h>
+
+1643161442 source:/home/csp/Desktop/2019223757/01helloworld/swap1.cpp
+	"swap1.h"
+
+1643163100 source:/home/csp/Desktop/2019223757/01helloworld/pointerDefinition.cpp
+	<bits/stdc++.h>
+
+1643163605 source:/home/csp/Desktop/2019223757/01helloworld/pointerMemorySize.cpp
+	<bits/stdc++.h>
+
+1643164228 source:/home/csp/Desktop/2019223757/01helloworld/nullPointer.cpp
+	<bits/stdc++.h>
+
+1643164461 source:/home/csp/Desktop/2019223757/01helloworld/wildPointer.cpp
+	<bits/stdc++.h>
+
+1643165845 source:/home/csp/Desktop/2019223757/01helloworld/constModifierPointer.cpp
+	<bits/stdc++.h>
+
+1643180428 source:/home/csp/Desktop/2019223757/01helloworld/pointerAndArray.cpp
+	<bits/stdc++.h>
+
+1643181509 source:/home/csp/Desktop/2019223757/01helloworld/pointerAndFunction.cpp
+	<bits/stdc++.h>
+
+1643182412 source:/home/csp/Desktop/2019223757/01helloworld/pointerBubbleSort.cpp
+	<bits/stdc++.h>
+
+1643248292 source:/home/csp/Desktop/2019223757/01helloworld/structDefinition.cpp
+	<bits/stdc++.h>
+
+1643249476 source:/home/csp/Desktop/2019223757/01helloworld/structArray.cpp
+	<bits/stdc++.h>
+
+1643250177 source:/home/csp/Desktop/2019223757/01helloworld/structurePointer.cpp
+	<bits/stdc++.h>
+
+1643251088 source:/home/csp/Desktop/2019223757/01helloworld/nestedStructure.cpp
+	<bits/stdc++.h>
+
+1643252245 source:/home/csp/Desktop/2019223757/01helloworld/structAsFunctionArgument.cpp
+	<bits/stdc++.h>
+
+1643253110 source:/home/csp/Desktop/2019223757/01helloworld/constInStruct.cpp
+	<bits/stdc++.h>
+
+1643269457 source:/home/csp/Desktop/2019223757/01helloworld/structCase1.cpp
+	<bits/stdc++.h>
+
+1643270712 source:/home/csp/Desktop/2019223757/01helloworld/structCase2.cpp
+	<bits/stdc++.h>
+
+1643333103 source:/home/csp/Desktop/2019223757/01helloworld/memoryModelGlobalArea.cpp
+	<bits/stdc++.h>
+
+1643333935 source:/home/csp/Desktop/2019223757/01helloworld/memoryModelStackArea.cpp
+	<bits/stdc++.h>
+
+1643334820 source:/home/csp/Desktop/2019223757/01helloworld/memoryModelHeapArea.cpp
+	<bits/stdc++.h>
+
+1643335956 source:/home/csp/Desktop/2019223757/01helloworld/newOperator.cpp
+	<bits/stdc++.h>
+
+1643355645 source:/home/csp/Desktop/2019223757/01helloworld/referenceBasics.cpp
+	<bits/stdc++.h>
+
+1643356652 source:/home/csp/Desktop/2019223757/01helloworld/referenceAsFunctionArgument.cpp
+	<bits/stdc++.h>
+
+1643358387 source:/home/csp/Desktop/2019223757/01helloworld/referenceAsFunctionReturnValue.cpp
+	<bits/stdc++.h>
+
+1643358968 source:/home/csp/Desktop/2019223757/01helloworld/constantReference.cpp
+	<bits/stdc++.h>
+
+1643433109 source:/home/csp/Desktop/2019223757/01helloworld/functionDefaultParamater.cpp
+	<bits/stdc++.h>
+
+1643438847 source:/home/csp/Desktop/2019223757/01helloworld/functionPlaceholderParamater.cpp
+	<bits/stdc++.h>
+
+1643443297 source:/home/csp/Desktop/2019223757/01helloworld/functionOverloadingAnnouncements.cpp
+	<bits/stdc++.h>
+
+1643440593 source:/home/csp/Desktop/2019223757/01helloworld/functionOverloadingBasics.cpp
+	<bits/stdc++.h>
+
+1643443733 source:/home/csp/Desktop/2019223757/01helloworld/encapsulationAsAWhole.cpp
+	<bits/stdc++.h>
+
+1643444652 source:/home/csp/Desktop/2019223757/01helloworld/StudentClass.cpp
+	<bits/stdc++.h>
+
+1643509355 source:/home/csp/Desktop/2019223757/01helloworld/encapsulatedPermissionControl.cpp
+	<bits/stdc++.h>
+
+1643510073 source:/home/csp/Desktop/2019223757/01helloworld/differenceOfClassAndStruct.cpp
+	<bits/stdc++.h>
+
+1643523587 source:/home/csp/Desktop/2019223757/01helloworld/privatizationOfMemberAttribute.cpp
+	<bits/stdc++.h>
+
+1643525578 source:/home/csp/Desktop/2019223757/01helloworld/encapsulationDemoCube.cpp
+	<bits/stdc++.h>
+
+1643527922 source:/home/csp/Desktop/2019223757/01helloworld/point.cpp
+	"point.h"
+
+1643527765 /home/csp/Desktop/2019223757/01helloworld/point.h
+	<bits/stdc++.h>
+
+1643528141 source:/home/csp/Desktop/2019223757/01helloworld/encapsulationDemoPointAndCircle.cpp
+	<bits/stdc++.h>
+	"point.h"
+
+1643589677 source:/home/csp/Desktop/2019223757/01helloworld/constructorAndDestructor.cpp
+	<bits/stdc++.h>
+
+1643597951 source:/home/csp/Desktop/2019223757/01helloworld/classificationAndInvocationOfConstructor.cpp
+	<bits/stdc++.h>
+
+1643599184 source:/home/csp/Desktop/2019223757/01helloworld/copyConstructorCallTiming.cpp
+	<bits/stdc++.h>
+
+1643615094 source:/home/csp/Desktop/2019223757/01helloworld/constructorCallRules.cpp
+	<bits/stdc++.h>
+
+1643617016 source:/home/csp/Desktop/2019223757/01helloworld/deepCopyAndShallowCopy.cpp
+	<bits/stdc++.h>
+
+1643619410 source:/home/csp/Desktop/2019223757/01helloworld/classObjectAsClassMember.cpp
+	<bits/stdc++.h>
+
+1643618620 source:/home/csp/Desktop/2019223757/01helloworld/constructorInitializerList.cpp
+	<bits/stdc++.h>
+
+1643682855 source:/home/csp/Desktop/2019223757/01helloworld/staticMemberVariable.cpp
+	<bits/stdc++.h>
+
+1643683660 source:/home/csp/Desktop/2019223757/01helloworld/staticMemberFunction.cpp
+	<bits/stdc++.h>
+
+1643686325 source:/home/csp/Desktop/2019223757/01helloworld/memberVarAndMemberFunStore.cpp
+	<bits/stdc++.h>
+
+1643686070 source:/home/csp/Desktop/2019223757/01helloworld/thisPointer.cpp
+	<bits/stdc++.h>
+
+1643696052 source:/home/csp/Desktop/2019223757/01helloworld/nullptrAccessMemberFunction.cpp
+	<bits/stdc++.h>
+
+1643696765 source:/home/csp/Desktop/2019223757/01helloworld/constModifierMemberFunction.cpp
+	<bits/stdc++.h>
+
+1643784736 source:/home/csp/Desktop/2019223757/01helloworld/GlobalFunctionAsfriend.cpp
+	<bits/stdc++.h>
+
+1643699614 source:/home/csp/Desktop/2019223757/01helloworld/ClassAsFriend.cpp
+	<bits/stdc++.h>
+
+1643785899 source:/home/csp/Desktop/2019223757/01helloworld/textFileWrite.cpp
+	<bits/stdc++.h>
+
+1643787528 source:/home/csp/Desktop/2019223757/01helloworld/textFileRead.cpp
+	<bits/stdc++.h>
+
+1643788824 source:/home/csp/Desktop/2019223757/01helloworld/binaryFileWrite.cpp
+	<bits/stdc++.h>
+
+1643854832 source:/home/csp/Desktop/2019223757/01helloworld/binaryFileRead.cpp
+	<bits/stdc++.h>
+
+1643856055 source:/home/csp/Desktop/2019223757/01helloworld/functionTemplateBasics.cpp
+	<bits/stdc++.h>
+
+1643856702 source:/home/csp/Desktop/2019223757/01helloworld/functionTemplateAnnoucements.cpp
+	<bits/stdc++.h>
+
+1643858272 source:/home/csp/Desktop/2019223757/01helloworld/functionTemplateArraySort.cpp
+	<bits/stdc++.h>
+
+1643871111 source:/home/csp/Desktop/2019223757/01helloworld/ordinaryFuncVsFuncTemplate.cpp
+	<bits/stdc++.h>
+
+1643872305 source:/home/csp/Desktop/2019223757/01helloworld/ordFuncAndFuncTemplateCallRules.cpp
+	<bits/stdc++.h>
+
+1643873833 source:/home/csp/Desktop/2019223757/01helloworld/classTemplateBasics.cpp
+	<bits/stdc++.h>
+
+1643874102 source:/home/csp/Desktop/2019223757/01helloworld/classTemplateVsFuncTemplate.cpp
+	<bits/stdc++.h>
+
+1643876072 source:/home/csp/Desktop/2019223757/01helloworld/MemberFuncCreateTimingOfClassTemplate.cpp
+	<bits/stdc++.h>
+
+1643877270 source:/home/csp/Desktop/2019223757/01helloworld/classTemplateAsFuncParam.cpp
+	<bits/stdc++.h>
+
+1643883461 source:/home/csp/Desktop/2019223757/01helloworld/classTemplateAndInheritence.cpp
+	<bits/stdc++.h>
+
+1643935855 source:/home/csp/Desktop/2019223757/01helloworld/classTemplateMemberFuncImplementOutOfClass.cpp
+	<bits/stdc++.h>
+
+1643937162 source:/home/csp/Desktop/2019223757/01helloworld/classTemplateSubFile.cpp
+	<bits/stdc++.h>
+	"Person.hpp"
+
+1643936798 source:/home/csp/Desktop/2019223757/01helloworld/Person.cpp
+
+1643936034 /home/csp/Desktop/2019223757/01helloworld/Person.h
+	<bits/stdc++.h>
+
+1643936584 /home/csp/Desktop/2019223757/01helloworld/Person.cpp
+	"Person.h"
+
+1643936812 /home/csp/Desktop/2019223757/01helloworld/Person.hpp
+	<bits/stdc++.h>
+
+1643938747 source:/home/csp/Desktop/2019223757/01helloworld/classTemplateAndFriend.cpp
+	<bits/stdc++.h>
+
+1643943650 source:/home/csp/Desktop/2019223757/01helloworld/arrayClassEncapsulation.cpp
+	<bits/stdc++.h>
+	"MyArray.hpp"
+
+1643941876 /home/csp/Desktop/2019223757/01helloworld/MyArray.hpp
+	<bits/stdc++.h>
+
+1643961380 source:/home/csp/Desktop/2019223757/01helloworld/vectorStoreBulit-inDataTypes.cpp
+	<bits/stdc++.h>
+
+1643967299 source:/home/csp/Desktop/2019223757/01helloworld/vectorStoreUser-definedDataTypes.cpp
+	<bits/stdc++.h>
+
+1643967552 source:/home/csp/Desktop/2019223757/01helloworld/containerNestcontainer.cpp
+	<bits/stdc++.h>
+
+1643968795 source:/home/csp/Desktop/2019223757/01helloworld/stringConstructor.cpp
+	<bits/stdc++.h>
+
+1644023936 source:/home/csp/Desktop/2019223757/01helloworld/stringAssignmentOperator.cpp
+	<bits/stdc++.h>
+
+1644025139 source:/home/csp/Desktop/2019223757/01helloworld/stringConcatenation.cpp
+	<bits/stdc++.h>
+
+1644026298 source:/home/csp/Desktop/2019223757/01helloworld/stringLookupAndReplacement.cpp
+	<bits/stdc++.h>
+
+1644027113 source:/home/csp/Desktop/2019223757/01helloworld/stringComparison.cpp
+	<bits/stdc++.h>
+
+1644027836 source:/home/csp/Desktop/2019223757/01helloworld/stringAccess.cpp
+	<bits/stdc++.h>
+
+1644028373 source:/home/csp/Desktop/2019223757/01helloworld/stringInsertionAndDeletion.cpp
+	<bits/stdc++.h>
+
+1644029361 source:/home/csp/Desktop/2019223757/01helloworld/stringSubstring.cpp
+	<bits/stdc++.h>
+
+1644042084 source:/home/csp/Desktop/2019223757/01helloworld/vectorConstructor.cpp
+	<bits/stdc++.h>
+
+1644042443 source:/home/csp/Desktop/2019223757/01helloworld/vectorAssignment.cpp
+	<bits/stdc++.h>
+
+1644043340 source:/home/csp/Desktop/2019223757/01helloworld/vectorCapacityAndSize.cpp
+	<bits/stdc++.h>
+
+1644044391 source:/home/csp/Desktop/2019223757/01helloworld/vectorInsertionAndDeletion.cpp
+	<bits/stdc++.h>
+
+1644045212 source:/home/csp/Desktop/2019223757/01helloworld/vectorAccess.cpp
+	<bits/stdc++.h>
+
+1644049414 source:/home/csp/Desktop/2019223757/01helloworld/swapVectorContainer.cpp
+	<bits/stdc++.h>
+
+1644050113 source:/home/csp/Desktop/2019223757/01helloworld/vectorReserveSpace.cpp
+	<bits/stdc++.h>
+
+1644116247 source:/home/csp/Desktop/2019223757/01helloworld/dequeConstructor.cpp
+	<bits/stdc++.h>
+
+1644116893 source:/home/csp/Desktop/2019223757/01helloworld/dequeAssignment.cpp
+	<bits/stdc++.h>
+
+1644117360 source:/home/csp/Desktop/2019223757/01helloworld/dequeSize.cpp
+	<bits/stdc++.h>
+
+1644129438 source:/home/csp/Desktop/2019223757/01helloworld/dequeInsertionAndDeletion.cpp
+	<bits/stdc++.h>
+
+1644130104 source:/home/csp/Desktop/2019223757/01helloworld/dequeAccess.cpp
+	<bits/stdc++.h>
+
+1644131332 source:/home/csp/Desktop/2019223757/01helloworld/dequeSort.cpp
+	<bits/stdc++.h>
+
+1644135718 source:/home/csp/Desktop/2019223757/01helloworld/STLDemoJudgeScore.cpp
+	<bits/stdc++.h>
+
+1644197294 source:/home/csp/Desktop/2019223757/01helloworld/stackCommonInterface.cpp
+	<bits/stdc++.h>
+
+1644198727 source:/home/csp/Desktop/2019223757/01helloworld/queueCommonInterface.cpp
+	<bits/stdc++.h>
+
+1644200456 source:/home/csp/Desktop/2019223757/01helloworld/listConstructor.cpp
+	<bits/stdc++.h>
+
+1644201153 source:/home/csp/Desktop/2019223757/01helloworld/listAssignmentAndSwap.cpp
+	<bits/stdc++.h>
+
+1644201646 source:/home/csp/Desktop/2019223757/01helloworld/listSize.cpp
+	<bits/stdc++.h>
+
+1644216538 source:/home/csp/Desktop/2019223757/01helloworld/listInsertionAndDeletion.cpp
+	<bits/stdc++.h>
+
+1644216951 source:/home/csp/Desktop/2019223757/01helloworld/listAccess.cpp
+	<bits/stdc++.h>
+
+1644218150 source:/home/csp/Desktop/2019223757/01helloworld/listReverseAndSort.cpp
+	<bits/stdc++.h>
+
+1644219872 source:/home/csp/Desktop/2019223757/01helloworld/listDemoUDDT.cpp
+	<bits/stdc++.h>
+
+1644223030 source:/home/csp/Desktop/2019223757/01helloworld/setConstructorAndAssignment.cpp
+	<bits/stdc++.h>
+
+1644223536 source:/home/csp/Desktop/2019223757/01helloworld/setSizeAndSwap.cpp
+	<bits/stdc++.h>
+
+1644279899 source:/home/csp/Desktop/2019223757/01helloworld/setInsertionAndDeletion.cpp
+	<bits/stdc++.h>
+
+1644280847 source:/home/csp/Desktop/2019223757/01helloworld/setFindAndCount.cpp
+	<bits/stdc++.h>
+
+1644282122 source:/home/csp/Desktop/2019223757/01helloworld/setVsMultiset.cpp
+	<bits/stdc++.h>
+
+1644282543 source:/home/csp/Desktop/2019223757/01helloworld/pairConstructor.cpp
+	<bits/stdc++.h>
+
+1644283478 source:/home/csp/Desktop/2019223757/01helloworld/setBulti-inDataTypeSpecifySortRule.cpp
+	<bits/stdc++.h>
+
+1644284491 source:/home/csp/Desktop/2019223757/01helloworld/setUser-definedDataTypeSpecifySortRule.cpp
+	<bits/stdc++.h>
+
+1644287005 source:/home/csp/Desktop/2019223757/01helloworld/mapConstructorAndAssignment.cpp
+	<bits/stdc++.h>
+
+1644287647 source:/home/csp/Desktop/2019223757/01helloworld/mapSizeAndSwap.cpp
+	<bits/stdc++.h>
+
+1644289070 source:/home/csp/Desktop/2019223757/01helloworld/mapInsertionAndDeletion.cpp
+	<bits/stdc++.h>
+
+1644289996 source:/home/csp/Desktop/2019223757/01helloworld/mapFindAndCount.cpp
+	<bits/stdc++.h>
+
+1644301048 source:/home/csp/Desktop/2019223757/01helloworld/mapSort.cpp
+	<bits/stdc++.h>
+
+1644305953 source:/home/csp/Desktop/2019223757/01helloworld/STLDemoEmployeeGroup.cpp
+	<bits/stdc++.h>
+
+1644308762 source:/home/csp/Desktop/2019223757/01helloworld/functionObjectBasics.cpp
+	<bits/stdc++.h>
+
+1644369741 source:/home/csp/Desktop/2019223757/01helloworld/one-placePredicate.cpp
+	<bits/stdc++.h>
+
+1644370588 source:/home/csp/Desktop/2019223757/01helloworld/two-placePredicate.cpp
+	<bits/stdc++.h>
+
+1644371589 source:/home/csp/Desktop/2019223757/01helloworld/built-inArithmeticalFunctor.cpp
+	<bits/stdc++.h>
+
+1644372481 source:/home/csp/Desktop/2019223757/01helloworld/built-inRelationalFunctor.cpp
+	<bits/stdc++.h>
+
+1644373538 source:/home/csp/Desktop/2019223757/01helloworld/built-inLogicalFunctor.cpp
+	<bits/stdc++.h>
+
+1644375808 source:/home/csp/Desktop/2019223757/01helloworld/commonTraversalAlgorithmFor_each.cpp
+	<bits/stdc++.h>
+
+1644376476 source:/home/csp/Desktop/2019223757/01helloworld/commonTraversalAlgorithmTransform.cpp
+	<bits/stdc++.h>
+
+1644377834 source:/home/csp/Desktop/2019223757/01helloworld/commonTraversalAlgorithmFind.cpp
+	<bits/stdc++.h>
+
+1644387935 source:/home/csp/Desktop/2019223757/01helloworld/commonFindAlgorithmFind_if.cpp
+	<bits/stdc++.h>
+
+1644388527 source:/home/csp/Desktop/2019223757/01helloworld/commonFindAlgorithmAdjacent_find.cpp
+	<bits/stdc++.h>
+
+1644389719 source:/home/csp/Desktop/2019223757/01helloworld/commonFindAlgorithmBinary_search.cpp
+	<bits/stdc++.h>
+
+1644391204 source:/home/csp/Desktop/2019223757/01helloworld/commonFindAlgorithmCount.cpp
+	<bits/stdc++.h>
+
+1644394221 source:/home/csp/Desktop/2019223757/01helloworld/commonFindAlgorithmCount_if.cpp
+	<bits/stdc++.h>
+
+1644394870 source:/home/csp/Desktop/2019223757/01helloworld/commonSortingAlgorithmSort.cpp
+	<bits/stdc++.h>
+
+1644395317 source:/home/csp/Desktop/2019223757/01helloworld/commonSortingAlgorithmRandom_shuffle.cpp
+	<bits/stdc++.h>
+
+1644455822 source:/home/csp/Desktop/2019223757/01helloworld/commonSortingAlgorithmMerge.cpp
+	<bits/stdc++.h>
+
+1644456141 source:/home/csp/Desktop/2019223757/01helloworld/commonSortingAlgorithmReverse.cpp
+	<bits/stdc++.h>
+
+1644456600 source:/home/csp/Desktop/2019223757/01helloworld/commonCopyAndReplaceAlgorithmCopy.cpp
+	<bits/stdc++.h>
+
+1644457902 source:/home/csp/Desktop/2019223757/01helloworld/commonCopyAndReplaceAlgorithmReplace_if.cpp
+	<bits/stdc++.h>
+
+1644457568 source:/home/csp/Desktop/2019223757/01helloworld/commonCopyAndReplaceAlgorithmReplace.cpp
+	<bits/stdc++.h>
+
+1644458439 source:/home/csp/Desktop/2019223757/01helloworld/commonCopyAndReplaceAlgorithmSwap.cpp
+	<bits/stdc++.h>
+
+1644460039 source:/home/csp/Desktop/2019223757/01helloworld/commonArithmeticGenerationAlgorithmFill.cpp
+	<bits/stdc++.h>
+
+1644459988 source:/home/csp/Desktop/2019223757/01helloworld/commonArithmeticGenerationAlgorithmAccumulate.cpp
+	<bits/stdc++.h>
+
+1644462089 source:/home/csp/Desktop/2019223757/01helloworld/commonSetAlgorithmSet_intersection.cpp
+	<bits/stdc++.h>
+
+1644462727 source:/home/csp/Desktop/2019223757/01helloworld/commonSetAlgorithmSet_union.cpp
+	<bits/stdc++.h>
+
+1644463102 source:/home/csp/Desktop/2019223757/01helloworld/commonSetAlgorithmSet_difference.cpp
+	<bits/stdc++.h>
+
+1644713803 source:/home/csp/Desktop/2019223757/01helloworld/BitACM2020WinterTrainingCourse-STL.cpp
+	<bits/stdc++.h>
+
